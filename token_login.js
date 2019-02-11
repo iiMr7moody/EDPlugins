@@ -2,7 +2,7 @@ const Plugin = require('../plugin');
 const path = window.require('path');
 const fs = window.require('fs');
 
-module.exports = new Plugin({
+module.exports = new Plugin({aaaaa
     name: 'Token Login',
     author: 'Creatable',
     description: 'Adds an option for logging in with a token.',
